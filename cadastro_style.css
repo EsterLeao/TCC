@@ -1,0 +1,52 @@
+#netero{
+
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    font-style: italic;
+    text-align: left;
+   
+}
+
+#titulo{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    text-align: center;
+    background-color:#203a46; 
+}
+
+#texto{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center
+}
+
+.profissional{
+
+    text-align: center;
+    margin: 20px; 
+    
+}
+
+.casas{
+    text-align: center;
+    margin: 20px; 
+}
+
+.cliente{
+     text-align: center;
+     margin: 20px; 
+}
+.caixa{
+    padding:70px;
+    border: 3px solid rgb(128, 128, 128);
+    text-align: center;
+  
+}
+button{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
